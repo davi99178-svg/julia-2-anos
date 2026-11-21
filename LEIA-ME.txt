@@ -1,0 +1,14 @@
+SITE Davi & Julia — 2 anos de namoro
+
+Inclui 40 fotos e 6 vídeos únicos, em ordem de envio (cronológica conforme informado).
+Primeira foto: 18/10/2024. Início oficial do namoro: 06/12/2024.
+
+PUBLICAR:
+1. Crie repositório público julia-2-anos no GitHub.
+2. Envie o conteúdo DESTA pasta (index.html, style.css, script.js, fotos/, videos/, musica/) para a raiz do repositório.
+3. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+4. URL: https://davi99178-svg.github.io/julia-2-anos/ (se este for o usuário e nome do repositório).
+
+MÚSICA: não incluída por direitos autorais. Se tiver um arquivo autorizado, coloque em musica/foi-assim.mp3. O botão de música funcionará após isso.
+
+ATENÇÃO: GitHub Pages público torna fotos e vídeos acessíveis a quem tiver o link e possivelmente indexáveis. Só publique com consentimento das pessoas retratadas.
